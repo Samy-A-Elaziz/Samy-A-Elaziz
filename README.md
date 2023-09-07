@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://th.bing.com/th/id/R.81178b47a8598f0c81c4799f2cdd4057?rik=5cuVK%2bfI%2bsPqqw&pid=ImgRaw&r=0"><br>Hi 👋</h1>
-<h3 align="center">Developer || Graphic designer</h3>
+<h1 align="center"><img src="https://th.bing.com/th/id/R.81178b47a8598f0c81c4799f2cdd4057?rik=5cuVK%2bfI%2bsPqqw&pid=ImgRaw&r=0" height="400"><br>Hi 👋</h1>
+<h3 align="center">Developer & Graphic designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samy-a-elaziz&label=Profile%20views&color=0e75b6&style=flat" alt="samy-a-elaziz" /> </p>
 
