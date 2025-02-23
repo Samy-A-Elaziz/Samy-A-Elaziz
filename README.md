@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://th.bing.com/th/id/R.81178b47a8598f0c81c4799f2cdd4057?rik=5cuVK%2bfI%2bsPqqw&pid=ImgRaw&r=0"><br>Hi 👋</h1>
 <h3 align="center">Developer & Graphic designer</h3>
 
-- 🔭 I’m currently working on **Semtech**
+- 🔭 I’m currently working on **--**
 <!--<a href="https://www.facebook.com/profile.php?id=61550635381321" ><img align="right" src="https://scontent.fcai19-8.fna.fbcdn.net/v/t39.30808-6/370937738_1014280646274099_7679573088516519409_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=ED8up1eS3-oAX8MZBhX&_nc_ht=scontent.fcai19-8.fna&oh=00_AfB1hRgHgyPL3O5qj_r27wZGN9fInOUrZHXLTrURLwgKdw&oe=64FE1AD8" alt="Semtech-picture" width="100" height="100" title="Semtech-logo"></a>-->
 
 - 💬 Ask me about **Technical service**
